@@ -9,8 +9,9 @@ I think AWS Cloud9 already has Node.js installed.  Try to do this without the se
 
 ### Claudia.js documentation
 
-Check Node.js and NPM versions.  Then install claudia.js.
+Verify git installed.  Check Node.js and NPM versions.  Install claudia.js.
 ```
+git --version
 node -v
 npm --version
 npm install claudia -g

@@ -1,0 +1,11 @@
+{
+  "name": "claudiajs-book-chap-2.1",
+  "version": "1.0.0",
+  "description": "The GET /pizzas handler of your Pizza API <br>",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

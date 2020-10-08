@@ -4,7 +4,7 @@
 'use strict'
 
 // require the Claudia API Builder module
-const Api = require('claudi-api-builder')
+const Api = require('claudia-api-builder')
 
 // create instance of Claudia API builder
 const api = new Api()
